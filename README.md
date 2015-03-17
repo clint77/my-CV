@@ -26,7 +26,7 @@ Work confidently within a group both as a team member and as a team leader.
 - Pair programming at Makers Academy on weekly projects and two weeks on our final project
 - Experience as Team Member/Facilator up to Team Leader/Lecturer Senior Fellow for the World of Outbound Corp. for more than 10 years, delivering safety, education and adventure to young students in a high risk, fast paced environment both indoor and outdoors.
 
-### Customer service and Problem Solving
+### Customer Service and Problem Solving
 
 Background in fast paced client facing industry, both with Everything Everywhere, UK (EE) and The World of Outbound Corp., I have learnt how to interact and deal with very demanding clients. 
 
