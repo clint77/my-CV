@@ -1,6 +1,6 @@
 # Clint Pijuan
 
-A self-motivated and passionate adventurer and junior developer with experience in fast paced customer service and technical support roles. Able to use own initiative and work as part of a team. An effective communicator with good problem solving and good analytical skills. Proven leadership skills, including managing and motivating team members to achieve company objectives. I'm looking for a junior developer role in an agile environment where I can continue to learn and develop my code craftmanship using test driven development and object oriented design.
+A self-motivated and passionate adventurer and junior developer with experience in fast paced customer service and technical support roles. Proven leadership skills, including managing and motivating team members to achieve company objectives. I enjoy being part of a team but still have the drive to work on my own initiative. I am an effective communicator with good problem solving and analytical skills. I'm looking for a junior developer role in an agile environment where I can continue to learn and develop my code craftmanship using test driven development and object oriented design.
 
 ## Skills
 
@@ -62,7 +62,7 @@ A Summary repository of my projects and experiences at Makers Academy can be fou
 
 - Mountaineering and Hiking
 - Anything about technology 
-- Running, Chess, Basketball and will try anything that can give a good workout physically and mentally
+- Running, Chess, Basketball and will try anything that can give me a good workout physically and mentally
 - Mini project of integrating Raspberry Pi and a webcam as my do-it-yourself home CCTV
 
 
