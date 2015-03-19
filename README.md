@@ -1,6 +1,6 @@
 # Clint Pijuan
 
-A self-motivated and passionate adventurer and junior developer with experience in fast paced customer service and technical support roles. Proven leadership skills, including managing and motivating team members to achieve company objectives. I enjoy being part of a team but still have the drive to work on my own initiative. I am an effective communicator with good problem solving and analytical skills. I'm looking for a junior developer role in an agile environment where I can continue to learn and develop my code craftmanship using test driven development and object oriented design.
+A self-motivated and passionate adventurer and junior developer with experience in fast paced customer service and technical support roles. Proven leadership skills, who loves managing and motivating team members to achieve company objectives. I enjoy being part of a team but still have the drive to work on my own initiative. I am an effective communicator with good problem solving and analytical skills. I will definitely enjoy working as a junior developer role in an agile environment where I can continue to learn and develop my code craftmanship using test driven development and object oriented design.
 
 ## Skills
 
@@ -23,16 +23,17 @@ Makers Academy: Full Stack Developer with hands-on experience using test and beh
 
 Work confidently within a group both as a team member and as a team leader. 
 
-- Pair programming at Makers Academy on weekly projects and two weeks on our final project
-- Experience as Team Member/Facilator up to Team Leader/Lecturer Senior Fellow for the World of Outbound Corp. for more than 10 years, delivering safety, education and adventure to young students in a high risk, fast paced environment both indoor and outdoors.
+- Enjoy Pair Programming at Makers Academy on weekly projects and two weeks on our final project
+- Love working my way as Team Member/Facilator up to Team Leader/Lecturer Senior Fellow for the World of Outbound Corp. for more than 10 years, delivering safety, education and adventure to young students in a high risk, fast paced environment both indoor and outdoors.
+- Love talking to people/business customers and solving their technical issues over the phone while I work at Everything Everywhere (EE). I love that I made it to the EE ASPIRE program in record time of just 5 months on the job and able to do monthly one to one coaching and goal setting for members of my team and other business tech teams as necessary.  
 
 ### Customer Service and Problem Solving
 
-Background in fast paced client facing industry, both with Everything Everywhere, UK (EE) and The World of Outbound Corp., I have learnt how to interact and deal with very demanding clients. 
+I enjoyed being in fast paced client facing industry, both with Everything Everywhere, UK (EE) and The World of Outbound Corp., I have learnt how to interact and deal with very demanding clients. 
 
 - As a Business Technical Support Representative for EE, I was task to probe and solve technical issues for small business customers involving telecommunications and networking technology as well as different mobile operating systems such as iOS, Android, Blackberry and Windows Mobile. 
 
-- As a Facilator and eventually a Senior Team Leader for The World of Outbound Corp., I was task with making decisions for the team regarding safety, security and education during outdoor educational tours involving hiking, caving, snorkling etc. I learnt to work well under pressure in a calm, logical and efficient manner.
+- As a Facilator and eventually a Senior Team Leader for The World of Outbound Corp., I was task with making decisions for the team regarding safety, security and education during outdoor educational tours involving hiking, caving, snorkling etc. I learn to love working pressure and in the process became a calm, logical and efficient problem solver. 
 
 - As a developer, dealing with challenging projects, I had to be excellent in problem solving with high attention to detail.
 
