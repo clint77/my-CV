@@ -52,7 +52,7 @@ Learned cutting edge coding techniques and best practices from world class devel
 - Ruby, Rails, Javascript, Node.js, HTML and CSS
 - Rspec, Jasmine, Mocha, Cucumber
 
-A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/clint77)
+A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/clint77?tab=repositories)
 
 ### University of the Philippines - Diliman
 
