@@ -8,7 +8,7 @@ A self-motivated and passionate adventurer and junior developer with experience 
 
 Makers Academy: Full Stack Developer with hands-on experience using test and behaviour driven development in both Ruby and Javascript.
 
-- 12 weeks immersive web development bootcamp with in-depth introduction to such technologies as, Nodejs, Ruby, Ruby on Rails 4, Sinatra, JavaScript, jQuery, AJAX, Postgres SQL and Datamapper
+- 12 weeks immersive web development bootcamp with in-depth introduction to such technologies as, Nodejs, Ruby, Ruby on Rails 4, Sinatra, JavaScript, jQuery, AJAX, C#, NUnit, Postgres SQL and Datamapper
 - Learned cutting edge coding techniques and best practices from world class developers, project-based, test-driven work and pair programming.
 - Rspec, Jasmine, Cucumber, Capybara, Casperjs
 - Experienced version control with git
