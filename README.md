@@ -61,7 +61,7 @@ A Summary repository of my projects and experiences at Makers Academy can be fou
 
 ## Interest
 
-- Mountaineering and Hiking
+- Mountaineering, Camping and Hiking
 - Anything about technology 
 - Running, Chess, Basketball and will try anything that can give me a good workout physically and mentally
 - Mini project of integrating Raspberry Pi and a webcam as my do-it-yourself home CCTV
