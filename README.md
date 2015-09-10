@@ -39,6 +39,13 @@ I enjoyed being in fast paced client facing industry, both with Everything Every
 
 ## Education
 
+### Free Code Camp - July 2015 - Present
+
+Free Code Camp - An open source community of busy people who learn to code and build projects for nonprofits.
+
+ - This is a link to my profile in [freecodecamp!](http://www.freecodecamp.com/clint77) 
+ - HTML5, CSS, JavaScript, Databases, Git, Node.js, Angular.js, Agile
+
 ### Makers Academy - December 2014 - March 2015
 
 12 weeks immersive web development bootcamp:
@@ -64,6 +71,6 @@ A Summary repository of my projects and experiences at Makers Academy can be fou
 - Mountaineering, Camping and Hiking
 - Anything about technology 
 - Running, Chess, Basketball and will try anything that can give me a good workout physically and mentally
-- Mini project of integrating Raspberry Pi and a webcam as my do-it-yourself home CCTV
+
 
 
