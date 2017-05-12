@@ -1,6 +1,7 @@
 # Clint Pijuan
 
-A self-motivated and passionate adventurer and junior developer with experience in fast paced customer service and technical support roles. Proven leadership skills, who loves managing and motivating team members to achieve company objectives. I enjoy being part of a team but still have the drive to work on my own initiative. I am an effective communicator with good problem solving and analytical skills. I will definitely enjoy working as a junior developer role in an agile environment where I can continue to learn and develop my code craftmanship using test driven development and object oriented design.
+Driven by learning, changed my career path and now a passionate junior developer, growing my code craftsmanship. Graduated from Makers Academy in the UK, mastering test-driven development and object oriented design. With more than a year of experience in a start-up environment using HTML, CSS, JavaScript, Bootstrap 3, Angular.js and Google Firebase. A team player, a natural leader, and a developer with excellent problem solving and analytical skills, highly motivated to contribute to progressive companies.
+
 
 ## Skills
 
