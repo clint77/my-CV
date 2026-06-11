@@ -6,6 +6,7 @@ This repository contains the source for Clint Pijuan's portfolio and CV website,
 
 - `index.md` contains the CV displayed on the website.
 - `_config.yml` configures the GitHub Pages Jekyll theme.
+- `assets/css/style.scss` extends the Cayman theme with site-specific responsive styles.
 
 Update professional content in `index.md`. Keep this README focused on maintaining the repository rather than duplicating CV details.
 

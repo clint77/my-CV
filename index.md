@@ -1,5 +1,3 @@
-# Clint Pijuan
-
 Software engineer based in Melbourne, Australia, with professional experience across React.js, Next.js, Laravel, PHP, automated testing, and MySQL. Graduated from Makers Academy in the UK, with a foundation in test-driven development and object-oriented design.
 
 ## Experience
@@ -53,72 +51,43 @@ Greater Melbourne Area
 
 - Jest, React Testing Library
 
-## Skills
+## Technical Skills
 
-### Software Developer
+- **Frontend:** React.js, Next.js, JavaScript, HTML, CSS
+- **Backend:** PHP, Laravel, Node.js, Ruby, Ruby on Rails
+- **Testing:** Jest, React Testing Library, PHPUnit, RSpec, Jasmine, Cucumber
+- **Data:** MySQL, PostgreSQL, Google Firebase
+- **Engineering practices:** Test-driven development, behaviour-driven development, object-oriented design, SOLID principles, API integration, Git, Agile, pair programming
 
-Makers Academy: Full Stack Developer with hands-on experience using test and behaviour driven development in both Ruby and Javascript.
+## Professional Strengths
 
-- 12 weeks immersive web development bootcamp with in-depth introduction to such technologies as, Nodejs, Ruby, Ruby on Rails 4, Sinatra, JavaScript, jQuery, AJAX, C#, NUnit, Postgres SQL and Datamapper
-- Learned cutting edge coding techniques and best practices from world class developers, project-based, test-driven work and pair programming.
-- Rspec, Jasmine, Cucumber, Capybara, Casperjs
-- Experienced version control with git
-- Adopted agile values, principles and practices
-- Dedicated to clean object oriented principles and design
-- Agile Methodologies
-- Version control with git
-- API integration: Twilio, Twitter, Github, Google Calendar
-- SOLID principles incorporated into domain design
-
-### Communication and Teamwork
-
-Work confidently within a group both as a team member and as a team leader.
-
-- Enjoy Pair Programming at Makers Academy on weekly projects and two weeks on our final project
-- Love working my way as Team Member/Facilator up to Team Leader/Lecturer Senior Fellow for the World of Outbound Corp. for more than 10 years, delivering safety, education and adventure to young students in a high risk, fast paced environment both indoor and outdoors.
-- Love talking to people/business customers and solving their technical issues over the phone while I work at Everything Everywhere (EE). I love that I made it to the EE ASPIRE program in record time of just 5 months on the job and able to do monthly one to one coaching and goal setting for members of my team and other business tech teams as necessary.
-
-### Customer Service and Problem Solving
-
-I enjoyed being in fast paced client facing industry, both with Everything Everywhere, UK (EE) and The World of Outbound Corp., I have learnt how to interact and deal with very demanding clients.
-
-- As a Business Technical Support Representative for EE, I was task to probe and solve technical issues for small business customers involving telecommunications and networking technology as well as different mobile operating systems such as iOS, Android, Blackberry and Windows Mobile.
-
-- As a Facilator and eventually a Senior Team Leader for The World of Outbound Corp., I was task with making decisions for the team regarding safety, security and education during outdoor educational tours involving hiking, caving, snorkling etc. I learn to love working pressure and in the process became a calm, logical and efficient problem solver.
-
-- As a developer, dealing with challenging projects, I had to be excellent in problem solving with high attention to detail.
+- Collaborative development through pair programming, project-based delivery, and Agile practices.
+- More than 10 years of team leadership in outdoor education, progressing from team member to senior team leader and lecturer.
+- Business technical support experience resolving telecommunications, networking, and mobile operating system issues for small-business customers at Everything Everywhere (EE).
+- Calm, logical decision-making developed in safety-critical outdoor education environments.
 
 ## Education
 
-### Free Code Camp - July 2015 - Present
+### Makers Academy - December 2014 to March 2015
 
-Free Code Camp - An open source community of busy people who learn to code and build projects for nonprofits.
+Completed a 12-week immersive full-stack development bootcamp in London.
 
- - This is a link to my profile in [freecodecamp!](http://www.freecodecamp.com/clint77)
- - HTML5, CSS, JavaScript, Databases, Git, Node.js, Angular.js, Agile
+- Test-driven and behaviour-driven development
+- Object-oriented design, SOLID, MVC, and domain-driven design
+- Ruby, Rails, JavaScript, Node.js, HTML, CSS, and PostgreSQL
+- RSpec, Jasmine, Mocha, and Cucumber
 
-### Makers Academy - December 2014 - March 2015
+### Free Code Camp
 
-12 weeks immersive web development bootcamp:
+Independent coursework covering HTML, CSS, JavaScript, databases, Git, Node.js, AngularJS, and Agile practices.
 
-Learned cutting edge coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
+### University of the Philippines Diliman
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, BDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, HTML and CSS
-- Rspec, Jasmine, Mocha, Cucumber
+- 72 units toward a BS in Electronics and Communications Engineering, 1994 to 1997
+- 32 units toward a Diploma in Theatre Arts (Performance), 1998 to 2000
 
-A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/clint77?tab=repositories)
+## Interests
 
-### University of the Philippines - Diliman
-
-- 72 Units/Credits towards BS Electronic and Communication Engineering - 1994 to 1997
-- 32 Units/Credits towards Diploma in Theatre Arts - Performance - 1998 to 2000
-
-## Interest
-
-- Mountaineering, Camping and Hiking
-- Anything about technology
-- Running, Chess, Basketball and will try anything that can give me a good workout physically and mentally
+- Mountaineering, camping, and hiking
+- Technology
+- Running, chess, and basketball
