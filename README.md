@@ -1,7 +1,57 @@
 # Clint Pijuan
 
-Driven by learning, changed my career path and now a passionate junior developer, growing my code craftsmanship. Graduated from Makers Academy in the UK, mastering test-driven development and object oriented design. With more than a year of experience in a start-up environment using HTML, CSS, JavaScript, Bootstrap 3, Angular.js and Google Firebase. A team player, a natural leader, and a developer with excellent problem solving and analytical skills, highly motivated to contribute to progressive companies.
+Software engineer based in Melbourne, Australia, with professional experience across React.js, Next.js, Laravel, PHP, automated testing, and MySQL. Graduated from Makers Academy in the UK, with a foundation in test-driven development and object-oriented design.
 
+## Experience
+
+### Software Engineer - Mable
+
+**September 2023 - Present**
+
+Full-time | Melbourne, Victoria, Australia | Remote
+
+- Key focus is the HomeMade platform.
+- React.js, Next.js
+
+### Senior Software Engineer - Grace Papers
+
+**August 2022 - September 2023**
+
+Full-time | Melbourne, Victoria, Australia
+
+- Laravel, PHP
+
+### Software Engineer - Grace Papers
+
+**January 2022 - August 2022**
+
+Full-time | Australia
+
+- Laravel, PHPUnit
+
+### Software Engineer - meldCX
+
+**July 2021 - December 2021**
+
+Full-time | Melbourne, Victoria, Australia
+
+- React.js
+
+### Software Engineer - Speedshield Technologies
+
+**May 2020 - July 2021**
+
+Full-time | Melbourne, Victoria, Australia
+
+- Jest, MySQL
+
+### Software Developer - Moduware Inc
+
+**July 2017 - May 2020**
+
+Greater Melbourne Area
+
+- Jest, React Testing Library
 
 ## Skills
 
@@ -72,6 +122,4 @@ A Summary repository of my projects and experiences at Makers Academy can be fou
 - Mountaineering, Camping and Hiking
 - Anything about technology 
 - Running, Chess, Basketball and will try anything that can give me a good workout physically and mentally
-
-
 
